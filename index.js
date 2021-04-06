@@ -88,7 +88,13 @@ fs.writeFile(fileName, data, (err) =>
 
 // TODO: Create a function to initialize app
 function init() {
-
+    
+    inquirer.prompt(questions)
+    .then((data) => writeToFile(fileName, generateMarkdown(data)))
+    .then(() => console.log('Successfully wrote to README.md'))
+    .catch((err) => console.error(err));
+    
+    }
 
 
 // Function call to initialize app
