@@ -44,39 +44,39 @@ function generateMarkdown(data) {
 
     ${renderLicenseBadge(data.license)}
 
-        ## Description
+        # Description
     ${data.description}
 
-    ## Table of Contents
+    # Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
+    * [Installation](#Installation)
+    * [Usage](#Usage)
     * [Licence](#License)
-    * [Contributing](#contributing)
-    * [Test](#test)
-    * [Questions](#questions)
+    * [Contributing](#Contributions-/-Contributors)
+    * [Test](#Test)
+    * [Questions](#Questions)
  
-    ## Installation
+    # Installation
     The technologies used for this project include ${data.tech}. ${data.installation}
 
 
-    ## Usuage
+    # Usuage
     ${data.usage}
 
-    ## License
+    # License
     ${renderLicenseSection(data.license)}
 
-    ## Contributions / Contributors
+    # Contributions / Contributors
     ${data.contributions}
 
-    ## Test
+    # Test
     ${data.test}
 
 
-    ## Questions
+    # Questions
     If you have any questions or problems... Please feel free to contact me:
     
-    E-mail: ${data.email}        Github: [Github](https://github.com/${data.username})
+    E-mail: ${data.email}        Github: [${data.username}](https://github.com/${data.username})
 `;
 }
 

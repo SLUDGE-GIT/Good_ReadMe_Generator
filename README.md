@@ -7,31 +7,31 @@
 
     ## Table of Contents
 
-    * [Installation](#installation)
-    * [Usage](#usage)
+    * [Installation](#Installation)
+    * [Usage](#Usage)
     * [Licence](#License)
     * [Contributing](#contributing)
     * [Test](#test)
     * [Questions](#questions)
  
-    ## Installation
+    # Installation
     The technologies used for this project include This project uses Node.js, the npm inquirer package and package.json. undefined
 
 
-    ## Usuage
+    # Usuage
     This application will be used to easily create a README.md file effortlessly for the user's current or future project
 
-    ## License
+    # License
      
 
-    ## Contributions / Contributors
+    # Contributions / Contributors
     Kyle Florez
 
-    ## Test
+    # Test
     
 
 
-    ## Questions
+    # Questions
     If you have any questions or problems... Please feel free to contact me:
     
     E-mail: Florez.Photo@Gmail.Com        Github: [Github](https://github.com/SLUDGE-GIT)
