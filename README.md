@@ -4,6 +4,7 @@
 
 # Description
 This project will dynamically create a command-line application that allows the user to generate a README.md file without any headaches
+![readmesampleqs](https://user-images.githubusercontent.com/67348654/113796015-cd54ed80-9713-11eb-8abd-1859700cd028.jpg)
 
 # Table of Contents
 
