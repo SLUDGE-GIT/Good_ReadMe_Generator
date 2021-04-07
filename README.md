@@ -36,4 +36,4 @@ Kyle Florez
 If you have any questions or problems... Please feel free to contact me:
 
 E-mail: Florez.Photo@Gmail.Com        
-Github:[SLUDGE-GIT](https://github.com/SLUDGE-GIT)
+Github: [SLUDGE-GIT](https://github.com/SLUDGE-GIT)
