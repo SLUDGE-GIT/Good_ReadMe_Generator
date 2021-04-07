@@ -57,7 +57,7 @@ function generateMarkdown(data) {
     * [Questions](#Questions)
  
     # Installation
-    The technologies used for this project include ${data.tech}. ${data.installation}
+    The technologies used for this project include ${data.tech}. ${data.install}
 
 
     # Usuage
